@@ -1,4 +1,4 @@
-# My Python Practice Projects 🐍
+# My Python Journey Projects 🐍
 
 This repository contains beginner Python projects completed as part of my coding journey.
 

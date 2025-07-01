@@ -37,4 +37,34 @@ Collects user input like name, age, and preferences and displays a formatted sum
 
 ## 🚀 About Me
 
-I'm Dickson Okungbeni, a self-taught developer sharing my progress and learning in public. Follow my journey!
+# 👋 Hi, I'm Dickson Okungbeni
+
+🎯 I'm a self-taught Python developer on a mission to build real-world applications while sharing my learning journey publicly.
+
+## 🚀 Current Focus
+- Learning Python for web and software development
+- Building personal projects and uploading them to GitHub
+- Exploring tools like Cursor and Git for efficient development
+
+## 🧠 Skills I'm Practicing
+- Python fundamentals (variables, data types, conditionals, loops)
+- Command-line tools & GitHub workflow
+- Building CLI apps and automating tasks
+
+## 📚 My Projects
+Check out my beginner projects here:  
+👉 [My Python Projects Repository](https://github.com/Diktech/my-python-projects)
+
+## 🌱 What's Next
+- Learning functions, OOP, file handling, and Flask for web apps
+- Deploying my projects online and building a portfolio
+
+## 📫 Let's Connect
+I'm always open to connect with other learners, mentors, and devs.  
+📧 Email: o.dickson@dicem.org  
+🔗 GitHub: [github.com/Diktech](https://github.com/Diktech)
+
+---
+
+**"Consistency beats perfection. One line of code a day builds mastery."**
+

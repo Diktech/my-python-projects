@@ -64,7 +64,4 @@ I'm always open to connect with other learners, mentors, and devs.
 📧 Email: o.dickson@dicem.org  
 🔗 GitHub: [github.com/Diktech](https://github.com/Diktech)
 
----
-
 **"Consistency beats perfection. One line of code a day builds mastery."**
-
